@@ -1,0 +1,7 @@
+Image,Cluster,Confidence (%)
+person_01_0.jpg,0,91.74
+person_01_1.jpg,0,91.74
+person_02_0.jpg,1,88.33
+person_02_1.jpg,1,88.33
+person_03_0.jpg,2,92.86
+person_03_1.jpg,2,92.86

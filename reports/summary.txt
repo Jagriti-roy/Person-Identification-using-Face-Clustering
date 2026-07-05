@@ -1,0 +1,27 @@
+
+    ==========================================================
+                PERSON GROUPING PERFORMANCE REPORT
+    ==========================================================
+
+    Embedding Length      : 512
+
+    Processed Images      : 6
+
+    Discovered Groups     : 3
+
+    Average Group Score   : 90.98 %
+
+    ----------------------------------------------------------
+
+    Adjusted Rand Score   : 1.0000
+
+    Mutual Information    : 1.0000
+
+    Homogeneity Score     : 1.0000
+
+    Completeness Score    : 1.0000
+
+    Overall V-Measure     : 1.0000
+
+    ==========================================================
+    

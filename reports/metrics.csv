@@ -1,0 +1,10 @@
+Metric,Value
+Embedding Dimension,512.0
+Images Processed,6.0
+Clusters Generated,3.0
+Average Confidence,90.98
+Adjusted Rand Index,1.0
+NMI,1.0
+Homogeneity,1.0
+Completeness,1.0
+V Measure,1.0
