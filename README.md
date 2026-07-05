@@ -131,5 +131,7 @@ This project demonstrates an end-to-end face clustering pipeline capable of auto
 ##  Developed By
 
 **JAGRITI KUMARI**
+---
 **Btech CSE**
+---
 **12022002001156**
